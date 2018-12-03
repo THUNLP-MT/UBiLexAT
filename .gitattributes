@@ -1,0 +1,6 @@
+*.en linguist-language=python
+*.es linguist-language=python
+*.it linguist-language=python
+*.tr linguist-language=python
+*.zh linguist-language=python
+*.ja linguist-language=python
